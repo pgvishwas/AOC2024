@@ -1,4 +1,3 @@
-Here’s an example of a README.md file for your Advent of Code (AoC) 2024 competition repository. It is tailored to Python 3 as your language of choice and includes details about the competition, repository structure, and how to run your solutions.
 Advent of Code 2024 Solutions 🎄✨
 
 Welcome to my Advent of Code 2024 repository! This is where I solve daily programming puzzles using Python 3 during the AoC competition. The challenges are a great way to practice problem-solving, improve coding skills, and have fun during the holiday season! 🎅
